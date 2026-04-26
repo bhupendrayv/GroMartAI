@@ -1,0 +1,7 @@
+/* Reset default Vite styles */
+#root {
+  width: 100%;
+}
+
+/* App.css is now secondary to index.css for Grocerio brand standards. */
+/* Layout logic moved to index.css for 'One Display' performance. */

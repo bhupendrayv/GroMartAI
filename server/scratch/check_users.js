@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-require('dotenv').config({ path: 'd:/Grocery List Manager Project/server/.env' });
+require('dotenv').config({ path: '../.env' });
 
 async function checkUsers() {
   try {

@@ -2,6 +2,11 @@
   "name": "grocery-list-manager",
   "version": "1.0.0",
   "description": "Grocery List Manager Project",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bhupendrayv/GroMartAI.git"
+  },
+  "homepage": "https://github.com/bhupendrayv/GroMartAI#readme",
   "scripts": {
     "start": "concurrently \"npm run server\" \"npm run client\"",
     "server": "cd server && npm start",
